@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: hammer.pdf
-type: OCWFile
 uid: 9055283b-d773-ce62-9e3a-9e35df8fa7f5
 ---

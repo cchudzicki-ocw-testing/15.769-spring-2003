@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: methodology.pdf
-type: OCWFile
 uid: ac3eaddb-611f-3d37-89c8-707c36bb2050
 ---

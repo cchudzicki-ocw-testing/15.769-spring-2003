@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: roadmapwkshp.pdf
-type: OCWFile
 uid: a6ee851b-39c7-715d-4047-506fe8d23e06
 ---

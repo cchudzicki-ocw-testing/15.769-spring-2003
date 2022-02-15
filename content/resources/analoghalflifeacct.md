@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: analoghalflifeacct.pdf
-type: OCWFile
 uid: 9eba75d4-612b-f8c0-ffdb-0504c0962c9c
 ---
