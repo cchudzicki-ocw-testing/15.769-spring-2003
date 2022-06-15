@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings for the course, organized by class
+  and topic.
 draft: false
 learning_resource_types:
 - Readings
