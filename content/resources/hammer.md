@@ -5,6 +5,7 @@ file: /courses/15-769-operations-strategy-spring-2003/9055283bd773ce629e3a9e35df
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
